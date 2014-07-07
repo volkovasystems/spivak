@@ -15,10 +15,6 @@
 	@end-module-documentation
 
 	@include:
-		{
-			"fs": "fs",
-			"path": "path"
-		}
 	@end-include
 */
 var parseCommand = function parseCommand( command, parseRuleSet ){
